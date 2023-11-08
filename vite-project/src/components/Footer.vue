@@ -1,6 +1,6 @@
 <template>
      <!-- Footer =================================================================== -->
-     <div class="w-full xl:h-[1000px] h-auto xl:pt-0 pt-20   text-white bg-[#292930] mt-20 flex justify-center items-center">
+     <div class="w-full xl:h-[1000px] h-auto xl:pt-0 pt-20   text-white bg-[#292930]  flex justify-center items-center">
         <div class="md:w-[1200px] xl:h-[652px] h-auto md:px-0 px-5 flex flex-wrap xl:justify-between justify-center">
             <!-- Footer logo qism --------------------------------- -->
             <div class="w-[399px] h-full py-[49px] px-[53px] bg-[#3C3C45] rounded-lg xl:mr-0 mr-5">
